@@ -40,10 +40,14 @@ My goal is to become a data scientist or self-driving car engineer so that I can
 
 ### MACHIINE LEARNING
   
+  * Artificial Intelligence
+    * - [ ] [0] [edX: Columbia Artificial Intelligence MicroMasters](https://www.edx.org/micromasters/columbiax-artificial-intelligence) by Columbia University.
+  
   * Machine Learning
     * - [X] [1] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng at Stanford University.
     * - [ ] [0] [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) by University of Washington.
     * - [ ] [0] [Coursera: Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) by Higher School of Economics National Research University, Russia.
+  
   * Deep Learning
     * - [X] [1] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Andrew Ng at deeplearning.ai.
 
@@ -55,8 +59,13 @@ My goal is to become a data scientist or self-driving car engineer so that I can
   
   * Excel, SQL
   
+  * Spark
+    * - [ ] [0] [edX: Berkeley Data Science and Englineering with Spark XSeries](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm) by UC Berkeley.
+  
   * Applied Data Science
     * - [ ] [0] [edX: Harvard Data Science (with R) XSeries](https://www.edx.org/professional-certificate/harvardx-data-science)
+    * - [ ] [0] [edX: Berkeley Foundations of Data Science (with Python) PCP](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science) by UC Berkeley.
+    * - [ ] [0] [edX:Columbia Data Science for Executives PCP](https://www.edx.org/professional-certificate/data-science-executives)
     * - [ ] [0] [edX: Harvard Data Analysis for Life Sciences (with R) XSeries](https://www.edx.org/xseries/data-analysis-life-sciences)
     * - [ ] [0] [Coursera: Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) by University of Michigan.
     * - [ ] [0] [Coursera: Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) by Johns Hopkins University.
@@ -64,4 +73,12 @@ My goal is to become a data scientist or self-driving car engineer so that I can
     * - [ ] [0] [DataCamp: Career Track -- Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 
 
-### SLEF-CAR ENGINEERING
+### SELF-DRIVING CAR ENGINEERING
+  
+   * Robotics
+     * - [ ] [0] [edX: UPenn Robotics MicroMasters](https://www.edx.org/micromasters/pennx-robotics)
+     
+   * Automotive
+     * - [ ] [0] [Udacity: Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+     * - [ ] [0] [edX: Chalmers Emerging Automotive Technologies MicroMasters](https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies)
+
