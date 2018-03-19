@@ -19,8 +19,8 @@ My goal is to become a data scientist or self-driving car engineer so that I can
   * Introduction
   
   * Programming -- Python
-  - [ ] 1. [Coursera: Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-  - [ ] 2. [Coursera: Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python)
+    * - [X] [1] [Coursera: Python for Everybody Specialization](https://www.coursera.org/specializations/python) by University of Machingan. It includes: basic syntax, aceessing web data, using database with Python.
+    * - [X] [1] [Coursera: Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) by Rice University. It includes: basic syntax, data analysis and data visulization.
   
   * Programming -- C++
   
@@ -34,13 +34,19 @@ My goal is to become a data scientist or self-driving car engineer so that I can
 ### MACHIINE LEARNING
   
   * Machine Learning
-  
+    * - [X] [1] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng at Stanford University.
+    * - [] [0] [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) by University of Washington.
+    * - [] [0] [Coursera: Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) by Higher School of Economics National Research University, Russia.
   * Deep Learning
+    * - [X] [1] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 
 ### DATA ANALYTICS
   
   * Excel, SQL
+  
+  * Applied Data Science
+    * - [ ] [0] [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
 
 ### SLEF-CAR ENGINEERING
