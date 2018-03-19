@@ -35,8 +35,8 @@ My goal is to become a data scientist or self-driving car engineer so that I can
   
   * Machine Learning
     * - [X] [1] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng at Stanford University.
-    * - [] [0] [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) by University of Washington.
-    * - [] [0] [Coursera: Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) by Higher School of Economics National Research University, Russia.
+    * - [ ] [0] [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) by University of Washington.
+    * - [ ] [0] [Coursera: Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml) by Higher School of Economics National Research University, Russia.
   * Deep Learning
     * - [X] [1] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
