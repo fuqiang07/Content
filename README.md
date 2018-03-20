@@ -18,7 +18,7 @@ My goal is to become a data scientist or self-driving car engineer so that I can
 
   * Introduction
     * - [ ]  [edX: MIT 6.00.1 Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) by MIT.
-    * - [ ] [edX: MIT 6.00.2 Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
+    * - [ ] [edX: MIT 6.00.2 Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6) by MIT.
     * - [ ] [Coursera: Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals) by Rice University.
     
   
@@ -34,10 +34,10 @@ My goal is to become a data scientist or self-driving car engineer so that I can
       * - [ ] [edX: Microsoft Advanced C++](https://www.edx.org/course/advanced-c).
   
   * Data Structures
-    * - [ ] [0] [Coursera: Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) by UC San Diego.
+    * - [ ] [Coursera: Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) by UC San Diego.
   
   * Algorithms
-    * - [ ] [0] [Coursera: Algorithms Specialization](https://www.coursera.org/specializations/algorithms) by Stanford University.
+    * - [ ] [Coursera: Algorithms Specialization](https://www.coursera.org/specializations/algorithms) by Stanford University.
   
   * Database
 
@@ -45,7 +45,7 @@ My goal is to become a data scientist or self-driving car engineer so that I can
 ### MACHIINE LEARNING
   
   * Artificial Intelligence
-    * - [ ] [0] [edX: Columbia Artificial Intelligence MicroMasters](https://www.edx.org/micromasters/columbiax-artificial-intelligence) by Columbia University.
+    * - [ ] [edX: Columbia Artificial Intelligence MicroMasters](https://www.edx.org/micromasters/columbiax-artificial-intelligence) by Columbia University.
   
   * Machine Learning
     * - [X] [1] [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng at Stanford University.
@@ -59,30 +59,36 @@ My goal is to become a data scientist or self-driving car engineer so that I can
 ### DATA ANALYTICS
   
   * R
-    * - [ ] [0] [Coursera: Statistics with R Specialization](https://www.coursera.org/specializations/statistics) by Duke University.
+    * - [ ] [Coursera: Statistics with R Specialization](https://www.coursera.org/specializations/statistics) by Duke University.
   
   * Excel, SQL
+    * - [ ] [Excel to MySQL: Analytic Techniques for Business Specialization](https://www.coursera.org/specializations/excel-mysql) by Duke University.
+      * - [X] [Business Metrics for Data-Driven Companies](https://www.coursera.org/learn/analytics-business-metrics),
+      * - [ ] [Mastering Data Analysis in Excel](https://www.coursera.org/learn/analytics-excel),
+      * - [ ] [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau),
+      * - [X] [1] [Managing Big Data with MySQL](https://www.coursera.org/learn/analytics-mysql). A wonderful course to introduce SQL, especially for knowledge of database, relational diagram and how to sequery useful data from database. It includes a lot of practices, but it is worthwhile to go through them. I will try to review the materials before seeking a job.
+      * - [ ] [Increasing Real Estate Management Profits: Harnessing Data Analytics](https://www.coursera.org/learn/analytics-capstone)
   
   * Spark
-    * - [ ] [0] [edX: Berkeley Data Science and Englineering with Spark XSeries](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm) by UC Berkeley.
+    * - [ ] [edX: Berkeley Data Science and Englineering with Spark XSeries](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm) by UC Berkeley.
   
   * Applied Data Science
-    * - [ ] [0] [edX: Harvard Data Science (with R) XSeries](https://www.edx.org/professional-certificate/harvardx-data-science)
-    * - [ ] [0] [edX: Berkeley Foundations of Data Science (with Python) PCP](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science) by UC Berkeley.
-    * - [ ] [0] [edX:Columbia Data Science for Executives PCP](https://www.edx.org/professional-certificate/data-science-executives)
-    * - [ ] [0] [edX: Harvard Data Analysis for Life Sciences (with R) XSeries](https://www.edx.org/xseries/data-analysis-life-sciences)
-    * - [ ] [0] [Coursera: Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) by University of Michigan.
-    * - [ ] [0] [Coursera: Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) by Johns Hopkins University.
-    * - [ ] [0] [DataCamp: Career Track -- Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
-    * - [ ] [0] [DataCamp: Career Track -- Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
+    * - [ ] [edX: Harvard Data Science (with R) XSeries](https://www.edx.org/professional-certificate/harvardx-data-science)
+    * - [ ] [edX: Berkeley Foundations of Data Science (with Python) PCP](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science) by UC Berkeley.
+    * - [ ] [edX:Columbia Data Science for Executives PCP](https://www.edx.org/professional-certificate/data-science-executives)
+    * - [ ] [edX: Harvard Data Analysis for Life Sciences (with R) XSeries](https://www.edx.org/xseries/data-analysis-life-sciences)
+    * - [ ] [Coursera: Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) by University of Michigan.
+    * - [ ] [Coursera: Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) by Johns Hopkins University.
+    * - [ ] [DataCamp: Career Track -- Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+    * - [ ] [DataCamp: Career Track -- Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 
 
 ### SELF-DRIVING CAR ENGINEERING
   
    * Robotics
-     * - [ ] [0] [edX: UPenn Robotics MicroMasters](https://www.edx.org/micromasters/pennx-robotics)
+     * - [ ] [edX: UPenn Robotics MicroMasters](https://www.edx.org/micromasters/pennx-robotics)
      
    * Automotive
-     * - [ ] [0] [Udacity: Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
-     * - [ ] [0] [edX: Chalmers Emerging Automotive Technologies MicroMasters](https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies)
+     * - [ ] [Udacity: Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+     * - [ ] [edX: Chalmers Emerging Automotive Technologies MicroMasters](https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies)
 
