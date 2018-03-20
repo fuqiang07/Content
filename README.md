@@ -89,6 +89,7 @@ My goal is to become a data scientist or self-driving car engineer so that I can
      * - [ ] [edX: UPenn Robotics MicroMasters](https://www.edx.org/micromasters/pennx-robotics)
      
    * Automotive
-     * - [ ] [Udacity: Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+     * - [ ] [0] [MIT: 6.S094 Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+     * - [ ] [0] [Udacity: Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
      * - [ ] [edX: Chalmers Emerging Automotive Technologies MicroMasters](https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies)
 
