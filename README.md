@@ -95,3 +95,9 @@ My goal is to become a data scientist or self-driving car engineer so that I can
 
 Reference:
 1. [Preparing for the Transition to Data Science, insight](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)
+2. [Preparing for the Transition to Applied Artificial Intelligence](https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-artificial-intelligence-b14ba826206)
+3. [Transitioning from Software Engineering to Artificial Intelligence, insight](https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-ai-d41e48403447)
+4. [Transitioning from Academic Machine Learning to AI in Industry](https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-ai-8eaf53624079)
+
+
+
