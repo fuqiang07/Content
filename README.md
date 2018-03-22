@@ -20,18 +20,6 @@ My goal is to become a data scientist or self-driving car engineer so that I can
     * - [ ]  [edX: MIT 6.00.1 Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) by MIT.
     * - [ ] [edX: MIT 6.00.2 Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6) by MIT.
     * - [ ] [Coursera: Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals) by Rice University.
-    
-  
-  * Programming -- Python
-    * - [X] [Coursera: Python for Everybody Specialization](https://www.coursera.org/specializations/python) by University of Machingan. It includes: basic syntax, aceessing web data, using database with Python.
-    * - [X] [Coursera: Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) by Rice University. It includes: basic syntax, data analysis and data visulization.
-    * - [ ] [edX: Harvard Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x-0) by Harvard University.
-  
-  * Programming -- C++
-    * - [ ] [edX: Microsoft Learning C++ series](https://www.edx.org/course/introduction-c-microsoft-dev210x-6) by Microsoft.
-      * - [X] [edX: Microsoft Introduction to C++](https://www.edx.org/course/introduction-c-microsoft-dev210x-6),
-      * - [ ] [edX: Microsoft Intermediate C++](https://www.edx.org/course/intermediate-c-microsoft-dev210-2x-0),
-      * - [ ] [edX: Microsoft Advanced C++](https://www.edx.org/course/advanced-c).
   
   * Data Structures
     * - [ ] [Coursera: Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) by UC San Diego.
@@ -41,6 +29,21 @@ My goal is to become a data scientist or self-driving car engineer so that I can
   
   * Database
 
+### PROGRAMMING
+
+  * Python (most important)
+    * - [X] [Coursera: Python for Everybody Specialization](https://www.coursera.org/specializations/python) by University of Machingan. It includes: basic syntax, aceessing web data, using database with Python.
+    * - [X] [Coursera: Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) by Rice University. It includes: basic syntax, data analysis and data visulization.
+    * - [ ] [edX: Harvard Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x-0) by Harvard University.
+  
+  * R
+    * - [ ] [Coursera: Statistics with R Specialization](https://www.coursera.org/specializations/statistics) by Duke University.
+    
+  * C++
+    * - [ ] [edX: Microsoft Learning C++ series](https://www.edx.org/course/introduction-c-microsoft-dev210x-6) by Microsoft.
+      * - [X] [edX: Microsoft Introduction to C++](https://www.edx.org/course/introduction-c-microsoft-dev210x-6),
+      * - [ ] [edX: Microsoft Intermediate C++](https://www.edx.org/course/intermediate-c-microsoft-dev210-2x-0),
+      * - [ ] [edX: Microsoft Advanced C++](https://www.edx.org/course/advanced-c).
 
 ### MACHIINE LEARNING
   
@@ -57,9 +60,6 @@ My goal is to become a data scientist or self-driving car engineer so that I can
 
 
 ### DATA ANALYTICS
-  
-  * R
-    * - [ ] [Coursera: Statistics with R Specialization](https://www.coursera.org/specializations/statistics) by Duke University.
   
   * Excel, SQL
     * - [ ] [Excel to MySQL: Analytic Techniques for Business Specialization](https://www.coursera.org/specializations/excel-mysql) by Duke University.
@@ -93,3 +93,5 @@ My goal is to become a data scientist or self-driving car engineer so that I can
      * - [ ] [0] [Udacity: Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
      * - [ ] [edX: Chalmers Emerging Automotive Technologies MicroMasters](https://www.edx.org/micromasters/chalmersx-emerging-automotive-technologies)
 
+Reference:
+1. [Preparing for the Transition to Data Science, insight](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)
