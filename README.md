@@ -28,6 +28,9 @@ My goal is to become a data scientist or self-driving car engineer so that I can
     * - [ ] [Coursera: Algorithms Specialization](https://www.coursera.org/specializations/algorithms) by Stanford University.
   
   * Database
+    * - [ ] [ModeCommunity: SQL Tutorial](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/) includes a nice platform for testing your queries on real databases in your browser.
+    * - [ ] [MySQL Python tutorial](http://zetcode.com/db/mysqlpython/) particularly helpful for building projects..
+    * - [ ] [A step-by-step SQLAlchemy tutorial](http://www.rmunn.com/sqlalchemy-tutorial/tutorial.html) an increasingly popular Python module that allows you to access and modify SQL databases in a more “pythonic” way..
 
 ### PROGRAMMING
 
@@ -75,6 +78,11 @@ My goal is to become a data scientist or self-driving car engineer so that I can
   * Spark
     * - [ ] [edX: Berkeley Data Science and Englineering with Spark XSeries](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm) by UC Berkeley.
   
+  * Pandas
+    * - [ ] [Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book) to get a better understanding of how pandas and scikit-learn can be used to implement machine learning approaches.
+    * - [ ] [Pandas Exercises](https://github.com/lemonbalm/pandas-exercises).
+    * - [ ] [Pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html).
+    
   * Applied Data Science
     * - [ ] [edX: Harvard Data Science (with R) XSeries](https://www.edx.org/professional-certificate/harvardx-data-science)
     * - [ ] [edX: Berkeley Foundations of Data Science (with Python) PCP](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science) by UC Berkeley.
