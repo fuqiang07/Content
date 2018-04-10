@@ -9,7 +9,7 @@ General introductions to all of my learning courses.
 |Email|huangfq07@gmail.com
 
 ****
-## GOAL
+# GOAL
 My goal is to become a data scientist or self-driving car engineer so that I can combine my systems control experience and mathematical background with machine learning. To acheive the goal, I need to equip myself with knowledge of machine learning and programming and hence I list some courses that I would like to take in the coming years.
 
 ## Course Lists
@@ -57,6 +57,9 @@ My goal is to become a data scientist or self-driving car engineer so that I can
   
   * Deep Learning
     * - [X] [1] [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Andrew Ng at deeplearning.ai.
+    * - [ ]  [eDx: Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
+    * - [ ]  [Stanford: CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) by Feifei Li at Stanford University.
+    * - [ ]  [Stanford: CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) by Richard Socher at Stanford University.
 
 
 ### DATA ANALYTICS
