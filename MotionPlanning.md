@@ -24,12 +24,13 @@ My goal is to become a self-driving car engineer so that I can build up my caree
     * - [ ] [CMU: 16-350 Planning Techniques for Robotics](http://www.cs.cmu.edu/~maxim/classes/robotplanning/) by Carnegie Mellon University.
   
   * Books
-    * - [ ] [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by University of Alberta.
-    * - [ ] [Planning Algorithms](http://planning.cs.uiuc.edu/) by  University of Illinois.
+    * - [ ] [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard S. Sutton  at University of Alberta.
+    * - [ ] [Planning Algorithms](http://planning.cs.uiuc.edu/) by Steven M. LaValle at University of Illinois.
     
   * Papers
-    * - [ ] [Planning and Decision-Making for Autonomous Vehicles](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-060117-105157) by Massachusetts Institute of Technology.
-    * - [ ] [A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf) by Massachusetts Institute of Technology.
+    * - [ ] [Planning and Decision-Making for Autonomous Vehicles](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-060117-105157) by Wilko Schwarting at Massachusetts Institute of Technology.
+    * - [ ] [A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf) by Brian Paden at Massachusetts Institute of Technology.
+    * - [ ] [Optimal Trajectory Generation for Dynamic Street Scenarios in a Frene´t Frame](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5509799) by Moritz Werling at University of Karlsruhe, Germany and Sebastian Thrun at Stanford University.
 
   * Software Tools
     * - [Robotics | Kavraki Lab](http://kavrakilab.org/software.html) by Rice University. 
@@ -37,14 +38,11 @@ My goal is to become a self-driving car engineer so that I can build up my caree
         * OMPL: The Open Motion Planning Library.
   
   * Course Projects
-    * - [Udacity Self Driving Car ND Path Planning Project](https://medium.com/@philippe.weingertner/udacity-self-driving-car-nd-path-planning-project-6558f6d77887) by Philippe W. 
-    * - [Teaching Cars To Drive — Highway Path Planning](https://towardsdatascience.com/teaching-cars-to-drive-highway-path-planning-109c49f9f86c) by Eddie Forson. 
+    * - [Planning the path for a Self-Driving Car on a Highway](https://towardsdatascience.com/planning-the-path-for-a-self-driving-car-on-a-highway-7134fddd8707) by Priya Dwivedi with 82 star.
+    * - [Udacity Self-Driving Car Nanodegree Project 11 - Path Planning - Part 1](http://jeremyshannon.com/2017/08/25/udacity-sdcnd-path-planning-pt1.html) by Jeremy Shannon with 23 star. 
+    * - [Udacity Self Driving Car ND Path Planning Project](https://medium.com/@philippe.weingertner/udacity-self-driving-car-nd-path-planning-project-6558f6d77887) by Philippe W with 15 star. 
+    * - [Teaching Cars To Drive — Highway Path Planning](https://towardsdatascience.com/teaching-cars-to-drive-highway-path-planning-109c49f9f86c) by Eddie Forson with 1 star. 
 
-Reference:
-1. [Preparing for the Transition to Data Science, insight](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c)
-2. [Preparing for the Transition to Applied Artificial Intelligence](https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-artificial-intelligence-b14ba826206)
-3. [Transitioning from Software Engineering to Artificial Intelligence, insight](https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-ai-d41e48403447)
-4. [Transitioning from Academic Machine Learning to AI in Industry](https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-ai-8eaf53624079)
 
 
 
