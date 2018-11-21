@@ -37,7 +37,7 @@ My goal is to become a self-driving car engineer so that I can build up my caree
         * OOPSMP: An Object-Oriented Programming System for Motion Planning.
         * OMPL: The Open Motion Planning Library.
   * Resources
-    * - [AtsushiSakai/PythonRobotics at Github](https://github.com/AtsushiSakai/PythonRobotics) Python codes for robotics algorithm with almost 4k stars. High recommended.
+    * - [AtsushiSakai/PythonRobotics at Github](https://github.com/AtsushiSakai/PythonRobotics) Python codes for robotics algorithm with almost 4k stars. **High recommended**.
     
   * Course Projects
     * - [Planning the path for a Self-Driving Car on a Highway](https://towardsdatascience.com/planning-the-path-for-a-self-driving-car-on-a-highway-7134fddd8707) by Priya Dwivedi with 82 star [github](https://github.com/priya-dwivedi/CarND/tree/master/Term3/CarND-Path_Planning-P1).
